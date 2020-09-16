@@ -10,7 +10,7 @@
 
   The first argument is the name of the unorganized photo folder, the second argument is the folder which to the organized photos will be moved. The script will create the folder if it does not exist.
 
-  The script will create a folder structure like this \<Organized folder name\>\/\<Year\>\/\<Month\>\/\<Day #\>.
+  The script will create a folder structure like this \<Organized folder name\>\/\<Year\>\/\<Month\>\/\<Day #\>\/\<Photos\>.
   
 ## Future improvements
   - The script should be modified such that it would look at the photos' "Date taken" metadata rather than "Date modified". This is very important as some photos' "Date modified" does not match "Date taken".
