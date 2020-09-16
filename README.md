@@ -4,7 +4,7 @@
   This script should work fine with DCIM (camera photos) folders of Android phones - where all photos are stored in a single folder, unorganized. 
 
 ## Usage
-  Using your favorite shell, type in "./PhonePhotoOrganizer.py <photo folder name> <organized folder name>"
+  Using your favorite shell, type in "./PhonePhotoOrganizer.py \<photo folder name\> \<organized folder name\>"
 
   The first argument is the name of the unorganized photo folder, the second argument is the folder which to the organized photos will be moved. The script will create the folder if it does not exist.
 
